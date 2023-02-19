@@ -4,8 +4,8 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GuilhermeTaschner&show_icons=true&count_private=true&hide_border=true&title_color=9370DB&icon_color=b13583&text_color=b13583&bg_color=0d1117" alt="Guilherme da Silveira github stats" /> 
-   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeTaschner&layout=compact&hide_border=true&title_color=9370DB&text_color=b13583&bg_color=0d1117" />
-</div>
+<!--    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeTaschner&layout=compact&hide_border=true&title_color=9370DB&text_color=b13583&bg_color=0d1117" />
+</div> -->
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GuilhermeTaschner&bg_color=0d1117&color=6A5ACD&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
