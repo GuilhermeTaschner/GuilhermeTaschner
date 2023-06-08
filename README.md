@@ -35,7 +35,7 @@
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
   
 ### Studying in this moment:
-![Next.JS]([https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117](https://img.shields.io/badge/-Nextjs-0D1117?style=for-the-badge&logo=next.js&labelColor=0D1117))&nbsp;
+![Next.js](https://img.shields.io/badge/-Nextjs-0D1117?style=for-the-badge&logo=next.js&labelColor=0D1117)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
 ![Blender](https://img.shields.io/badge/-Blender-0D1117?style=for-the-badge&logo=blender&labelColor=0D1117&textColor=0D1117)&nbsp;
 
