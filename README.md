@@ -17,6 +17,8 @@
 ### Main skills:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React.ts](https://img.shields.io/badge/-React.ts-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![React Native](https://img.shields.io/badge/-React.Native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=next.js&labelColor=0D1117)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
@@ -31,10 +33,10 @@
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
   
 ### Studying in this moment:
-![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=next.js&labelColor=0D1117)&nbsp;
-![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
-![Blender](https://img.shields.io/badge/-Blender-0D1117?style=for-the-badge&logo=blender&labelColor=0D1117&textColor=0D1117)&nbsp;
-
+![React Native](https://img.shields.io/badge/-React.Native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-0D1117?style=for-the-badge&logo=flutter&labelColor=0D1117)&nbsp;
+![Nginx](https://img.shields.io/badge/-nginx-0D1117?style=for-the-badge&logo=nginx&labelColor=0D1117)&nbsp;
+![Nest.js](https://img.shields.io/badge/-nest.js-0D1117?style=for-the-badge&logo=nestjs&labelColor=0D1117)&nbsp;
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
